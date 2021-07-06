@@ -1,0 +1,125 @@
+h1{
+    color: rgb(51, 51, 51);
+    font-size: 3em;
+}
+.orange-color{
+    color: rgb(252, 88, 0);
+}
+body{
+    font-family: 'Rubik', sans-serif;
+    margin:0;
+}
+.flex-container{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin: 0;
+    padding-left: 5%;
+    padding-top: 100px;
+    
+    
+}
+.half-width{
+    width: 50%;
+    padding-right: 10%;
+    padding-right: 10%;
+}
+
+
+.button{
+    border: 1px solid rgb(255, 82, 1);
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(255, 89, 0),rgb(225, 170, 134));
+    width: 110px;
+    margin-top: 80px;
+    padding:10px
+}
+a{
+    color: rgb(247, 247, 247);
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+    
+h2{
+    color:rgb(46, 45, 45)
+
+}
+.chef-intro{
+    background-image: url(7.png);
+    margin-left: 0;
+
+    
+}
+
+#recipie{
+    text-align: center;
+    margin-bottom: 100px;
+}
+ 
+.another-flex{
+    display: flex;
+    margin-right: 20%;
+    margin-left: 7%;
+    
+}
+.another-flex img{
+    width:200px;
+    height: 200px;
+    
+}
+.flex-item{
+    width: 30%;
+    box-shadow: 10px 10px 40px rgb(82, 82, 82);
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 100px; 
+    
+    
+    
+}
+#customer{
+    text-align: center;
+    color: rgb(58, 57, 57);
+}
+.data-part{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 15%;
+    margin-bottom: 50px;
+}
+.social-media{
+    width: 30%;
+}
+.media-box{
+    box-shadow: 10px 10px 40px rgb(82, 82, 82);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 18%;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-right: 5%;
+    margin-bottom: 80px;
+
+}
+footer{
+    background-color: rgba(67, 64, 64, 0.474);
+    text-align: center;
+    height: 150px;
+    padding-top: 30px;
+    font-weight: 700;
+}
+.footer-color{
+    color: rgb(242, 148, 8)
+}
+
+    
+
+
+
